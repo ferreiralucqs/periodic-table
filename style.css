@@ -1,0 +1,41 @@
+table {width: 100%;
+height: 100%;}
+
+body {height: 955px;}
+
+td { width: 5%;
+height: 7.6%;
+border: solid 1px black;}
+
+.natomico { font-size: 12px;}
+
+.inicial{ font-size: 30px;
+font-weight: bold;
+text-align: center;}
+
+.nome{ text-align: center;}
+
+.zero {border: none;}
+
+.verde {background-color: #c3f88e;}
+
+.laranja {background-color: #ffb048;}
+
+.amarelo {background-color: #fff152;}
+
+.vermelho {background-color: #eb8181;}
+
+.cinza {background-color: #bfc8e4;}
+
+.verdeescuro {background-color: #2b8b6e;}
+
+.azulclaro {background-color: rgb(100, 179, 199);}
+
+.azul {background-color: rgb(19, 171, 209);}
+
+.ciano {background-color: rgb(153, 247, 247);}
+
+.roxo {background-color: #c071ce ;}
+
+#texto {font-size: 18px;}
+
